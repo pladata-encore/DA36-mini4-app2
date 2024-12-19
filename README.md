@@ -25,5 +25,32 @@
 ![비전_-004](https://github.com/user-attachments/assets/f3b859f7-e44d-4d6a-af1e-fbcd1c91a219)
 
 ☑️ 주요기능
+1. 경기 정보 제공
+
+2. 경마 상식
+
+3. 초보자 가이드(경마 설명, 마권발매 방법, 경마장 설명)
+
+☑️ ![업무역할](https://github.com/user-attachments/assets/0006bfde-0871-4611-8c83-5341627509ad)
+
+
+
+☑️ 사용기술 및 개발환경 
+
+운영체제: Windows 10 버전 
+
+관리 시스템: Git, Github, google_drive
+
+커뮤니티 : discord, notion
+
+개발 도구 및 에디터: Pycharm, Sourcetree 
+
+개발 언어 및 라이브러리: Python 3.12 
+
+langchain
+openAI GPT-4o
+
+서버 환경: Conda UTF-8
+
 
 
