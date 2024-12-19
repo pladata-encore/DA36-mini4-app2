@@ -33,6 +33,8 @@ Icon
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
 .env
+un_used_code.ipynb
+
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
