@@ -52,5 +52,9 @@ openAI GPT-4o
 
 서버 환경: Conda UTF-8
 
+☑️프로젝트 시연 영상(유튜브)
+
+https://www.youtube.com/'주소'
+
 
 
